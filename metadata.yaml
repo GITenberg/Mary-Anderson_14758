@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '5669'
     url: http://www.gutenberg.org/2009/agents/5669
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14758#Mary-Anderson
 gutenberg_issued: '2005-01-22'
 gutenberg_type: Text
 identifiers:
